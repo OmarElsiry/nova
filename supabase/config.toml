@@ -1,0 +1,7 @@
+project_id = "daeupcfiorrfncaesilv"
+
+[functions.telegram-auth]
+verify_jwt = false
+
+[functions.send-telegram-message]
+verify_jwt = false
